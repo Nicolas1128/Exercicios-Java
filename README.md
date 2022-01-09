@@ -1,4 +1,4 @@
-# exercicios-java
+# Exercicios-Java
 Repositório destinado à alocar exercícios de códigos na linguagem Java. 
 
 ## Enunciado
